@@ -4,7 +4,7 @@
 
 ## 현재 상태
 
-2026-10-20: 배포 기반을 마련했습니다. 등록된 앱은 HangulPlay 하나이며, dev/production 모두 `not_ready`입니다. **설치 가능한 학습팩은 아직 없습니다.** 초기 bootstrap 릴리스는 목록 형식과 익명 다운로드 확인을 위한 것으로 앱에 설치하는 팩이 아닙니다.
+2026-10-20: HangulPlay dev 채널에 [새 선 놀이 v1](https://github.com/jiwonpapa/app-content-packs/releases/tag/hangulplay-dev-2026.10.20.1)을 배포했습니다. 0.5.0-dev 앱의 보호자 설정에서 서명을 검증하고 받을 수 있습니다. 원본 기하 선 3종·활동 6회의 개발용 자료이며 교육 검수 전입니다. production은 `not_ready`를 유지합니다. 초기 bootstrap 릴리스는 앱 설치 대상이 아닙니다.
 
 ## 앱별 배포
 

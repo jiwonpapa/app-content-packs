@@ -1,0 +1,8 @@
+{
+  "status": "draft",
+  "educationApproved": false,
+  "source": "Original project-authored geometric centerlines, 2026-10-20",
+  "licenseId": "CC0-1.0",
+  "scope": "Only these geometric centerlines and catalog data. No third-party audio/image or application source included.",
+  "release": "hangulplay-dev-2026.10.20.1"
+}

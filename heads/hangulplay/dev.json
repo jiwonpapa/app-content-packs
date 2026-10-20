@@ -1,7 +1,1 @@
-{
-  "discoverySchemaVersion": 1,
-  "appId": "hangulplay",
-  "channel": "dev",
-  "state": "not_ready",
-  "index": null
-}
+{"appId":"hangulplay","channel":"dev","discoverySchemaVersion":1,"index":{"bodySha256":"e2f5949321b44de2af40434521f477c67c281719a30a5d5816626bd0c27df9e5","bodyUrl":"https://github.com/jiwonpapa/app-content-packs/releases/download/hangulplay-dev-2026.10.20.1/index.json","signatureSha256":"aa40bda6fd6b74a097aab4dbb9465886ac7de8585860bab644ffb80aebd53b11","signatureUrl":"https://github.com/jiwonpapa/app-content-packs/releases/download/hangulplay-dev-2026.10.20.1/index.sig.json"},"state":"ready"}
