@@ -1,0 +1,20 @@
+{
+  "registrySchemaVersion": 1,
+  "repository": "jiwonpapa/app-content-packs",
+  "apps": [
+    {
+      "appId": "hangulplay",
+      "displayName": "HangulPlay",
+      "channels": {
+        "dev": {
+          "headUrl": "https://raw.githubusercontent.com/jiwonpapa/app-content-packs/main/heads/hangulplay/dev.json",
+          "releaseTagPrefix": "hangulplay-dev-"
+        },
+        "production": {
+          "headUrl": "https://raw.githubusercontent.com/jiwonpapa/app-content-packs/main/heads/hangulplay/production.json",
+          "releaseTagPrefix": "hangulplay-production-"
+        }
+      }
+    }
+  ]
+}
